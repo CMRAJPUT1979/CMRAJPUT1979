@@ -5,6 +5,6 @@
 - 📫 How to reach me chandrajeetsingrajput@gmail.com
 
 <!---
-CMRAJPUT1979/CMRAJPUT1979 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CMRAJPUT1979/Chandrajeetsing Rajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
