@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CMRAJPUT1979
+- 👋 Hi, I’m @Chandrajeetsing Rajput 
 - 👀 I’m interested in Computer Programming 
 - 🌱 I’m currently learning Python .
 - 💞️ I’m looking to collaborate on Educational Department 
